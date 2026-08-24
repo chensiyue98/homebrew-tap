@@ -2,7 +2,7 @@ cask "qoq" do
   version "1.0.5"
   sha256 "71fb3091c0cc86f08e743aa0cfc48407636258fff1234a006fc68a4d7a83e3ab"
 
-  url "https://github.com/chensiyue98/qoq/releases/download/v#{version}/QoQ-#{version}.dmg"
+  url "https://github.com/chensiyue98/qoq/releases/download/v#{version}/QoQ-#{version}.zip"
   name "QoQ"
   desc "Native macOS translation and OCR menu bar app"
   homepage "https://github.com/chensiyue98/qoq"
