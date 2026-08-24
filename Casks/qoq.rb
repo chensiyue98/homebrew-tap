@@ -7,7 +7,7 @@ cask "qoq" do
   desc "Native macOS translation and OCR menu bar app"
   homepage "https://github.com/chensiyue98/qoq"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "QoQ.app"
 
