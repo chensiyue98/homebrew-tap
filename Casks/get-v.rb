@@ -1,6 +1,6 @@
 cask "get-v" do
-  version "1.1"
-  sha256 "7b067734d5a8e51829d1833359ab0f79b8e143dcd8fe84ffb3a053fda9bf1c9e"
+  version "1.2"
+  sha256 "e0bed558fd29b40f335db9263809c9a52875a1c53acd121597cf3ded34f8082e"
 
   url "https://github.com/chensiyue98/GetV/releases/download/v#{version}/GetV-#{version}.zip"
   name "GetV"
