@@ -1,6 +1,6 @@
 cask "qoq" do
-  version "1.0.7"
-  sha256 "eb04c78c982afe2a5a1629e193da23f7ea89a9061037ba51967a63c12efffc1b"
+  version "1.0.8"
+  sha256 "dafa9bf9b41b58cba5517dad9b6367db1effc3dba84f288c06e951c1046cf224"
 
   url "https://github.com/chensiyue98/qoq/releases/download/v#{version}/QoQ-#{version}.zip"
   name "QoQ"
